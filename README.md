@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **The marketplace, top-line:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/de9a5f11-9d25-462d-8fa5-45277067ac79
 
 **The AI marketplace, deeper:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/6d70c8a6-8f0d-4762-acfb-972b843946dd
 
 **The unit economics of time:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/76e46e33-51cd-4f03-a13d-48ef0644c68b
 
 ---
 
